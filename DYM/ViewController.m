@@ -36,6 +36,8 @@ static NSString *const KVO_CONTEXT_ADDRESS_CHANGED = @"KVO_CONTEXT_ADDRESS_CHANG
     //KVO
     [self watchPersonForChangeOfAddress];
     
+    
+    
 }
 #pragma mark --runLoop 让线程更持久
 
